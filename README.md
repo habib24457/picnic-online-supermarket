@@ -3,8 +3,10 @@ Live Site:https://picnic-supermarket-auth.web.app/home.
 Project title: Picnic Super Market. 
 
 Key features:  
-->User can choose available products(Mostly groceries). 
-->User have to go through authentication before purchasing. 
+->User can choose available products(Mostly groceries).  
+
+->User have to go through authentication before purchasing.  
+
 ->User can pay using online payment system.  
 
 How it works?  
