@@ -1,6 +1,8 @@
 Live Site:https://picnic-supermarket-auth.web.app/home. 
 
-Project title: Picnic Super Market. 
+Project title: Picnic Super Market.  
+
+Tools: React, react router, bootstrap, express, mongoDB, firebase, heroku
 
 Key features:  
 ->User can choose available products(Mostly groceries).  
